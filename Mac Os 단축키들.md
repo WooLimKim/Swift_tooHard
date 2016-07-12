@@ -1,5 +1,5 @@
 ###1. 한영전환
-    1. command + space
+    command + space
 
 ###2. 새로고침
     command + R
@@ -19,4 +19,5 @@
     2. 선택영역 스크린샷 : command + shift + 4
     3. 선택영역 스크린샷 : command + shift + 4 -> space
 
-###7. 파일 삭제 : command + delete(backspace)
+###7. 파일 삭제
+    command + delete(backspace)
